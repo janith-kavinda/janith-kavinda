@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janith Kavinda</h1>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&width=650&lines=Hi+there!+I'm+Janith+Kavinda+👨‍💻;Frontend+Developer+%7C+UI+Lover+🎨;Software+Engineering+Student+at+SLIIT+🎓;Skilled+in+Java,+Spring+Boot,+HTML+%26+CSS+🚀;Building+Responsive+Web+Apps+with+Care+💡;Always+Learning+and+Improving+📚+✨">
+  </a>
+</p>
+
 <h3 align="center">💻 A passionate frontend developer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janith-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="janith-kavinda" /> </p>
@@ -12,6 +18,47 @@
 - 📫 How to reach me **jkavinda680@gmail.com**
 
 - ⚡ Fun fact **Call Me Ass JK**
+
+
+<p align="center">
+  <a href="https://discord.gg/xm4DN6JTVt">Discord</a> |
+  <a href="https://github.com/janith-kavinda">GitHub</a> |
+  <a href="https://www.linkedin.com/in/janith-kavinda">LinkedIn</a> |
+  <a href="https://dev.to/janithkavinda">Dev.to</a> |
+  <a href="mailto:janithkavinda@gmail.com">Gmail</a>
+</p>
+
+---
+
+> ⚠️ **Youth is a lie. It is nothing but evil.**
+
+> Those who rejoice in youth deceive themselves and those around them,  
+accepting in full the circumstances that devour them.  
+ʕ •́؈•̀ ₎  
+In the face of the word "**Youth**", they will twist any common interpretation  
+or accepted notion out of recognition.
+
+> In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
+
+> If failure is truly the proof of one's youth...  
+Then is there not something abnormal about it?  
+But I am sure none of them would admit to this.  
+It is all a double standard.
+
+> ⚰️ **My conclusion is this:** All you fools who delight in youth...
+
+> 💀 **Be Drop Dead.**
+
+---
+
+<p align="center">
+  <img src="https://github.com/janith-kavinda/janith-kavinda/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+
+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
