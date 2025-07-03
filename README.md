@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Janith Kavinda</h1>
+## Hi 👋, I'm Janith Kavinda
+
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&width=650&lines=Hi+there!+I'm+Janith+Kavinda+👨‍💻;Frontend+Developer+%7C+UI+Lover+🎨;Software+Engineering+Student+at+SLIIT+🎓;Skilled+in+Java,+Spring+Boot,+HTML+%26+CSS+🚀;Building+Responsive+Web+Apps+with+Care+💡;Always+Learning+and+Improving+📚+✨">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&width=650&lines=Hi+there!+I'm+Janith+Kavinda+👨‍💻;Full-Stack+%7C+UI+Lover+🎨;Software+Engineering+Student+🎓;Skilled+in+Java,+Spring+Boot,+HTML+%26+CSS+🚀;Building+Responsive+Web+Apps+with+Care+💡;Always+Learning+and+Improving+📚+✨">
   </a>
 </p>
 
-<h3 align="center">💻 A passionate frontend developer from Sri Lanka 🇱🇰</h3>
+## 💻 A passionate Full-Stack from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janith-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="janith-kavinda" /> </p>
 
@@ -18,16 +19,7 @@
 - 📫 How to reach me **jkavinda680@gmail.com**
 
 - ⚡ Fun fact **Call Me Ass JK**
-
-
-<p align="center">
-  <a href="https://discord.gg/xm4DN6JTVt">Discord</a> |
-  <a href="https://github.com/janith-kavinda">GitHub</a> |
-  <a href="https://www.linkedin.com/in/janith-kavinda">LinkedIn</a> |
-  <a href="https://dev.to/janithkavinda">Dev.to</a> |
-  <a href="mailto:janithkavinda@gmail.com">Gmail</a>
-</p>
-
+  
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janith-kavinda&show_icons=true&theme=radical)
